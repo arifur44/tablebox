@@ -1,0 +1,64 @@
+{margin: 0px;
+padding:0px;
+}
+body{
+
+}
+img{
+	width: 200px;
+	height:200px;
+	margin:6px 400px 0px 520px;
+	border-radius:700px;
+}
+
+.container {
+    width: 100%;
+    height: 610px;
+    border: 2px solid #f0f1f3;
+    margin: 0px 0px 0px 50px;
+   background:url(../img/38.jpeg);
+}
+
+h1{
+text-align: center;
+font-family: 'Lobster', cursive;
+font-family: 'Abril Fatface', cursive;
+color: black;
+
+ }
+ button{
+ 	margin:34px;
+ 	background-color: #79534d8c;
+ 	border:#79534d8c;
+ }
+ b{
+ 	font-size: 29px;
+ 
+ }
+
+.btn{
+	border:1px solid red;
+	padding:40px;
+	margin: 30px;
+	font-size:26px;
+	text-decoration: none;
+	font-family: 'Bowlby One SC', cursive;
+
+
+}
+.btn:hover{
+	background-color: #000080;
+	color: white;
+}
+.btm{
+margin:900px;
+border:
+1px solid red;
+padding:40px;
+font-size:26px;
+font-family: 'Bowlby One SC', cursive;
+}
+.btm:hover{
+	background-color: #000080;
+	color: white;
+}
